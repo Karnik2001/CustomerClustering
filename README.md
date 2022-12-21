@@ -1,6 +1,6 @@
 # Cluster of Customer Mall Credit
 
-The purpose of this project is to analyze data using a technique called clustering to find subsets that have similarity. Clustering is a technique used in the data science field to segement data into several groups of similarity. Applications of clustering would be marketing, medical science, games, and the internet.
+The purpose of this project is to analyze data using a technique called clustering to find subsets that have similarity. Clustering is a technique used in the data science field to segment data into several groups of similarity. Applications of clustering would be marketing, medical science, games, and the internet.
 
 Steps to implement clustering in R
 
