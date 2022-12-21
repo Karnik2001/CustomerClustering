@@ -25,4 +25,4 @@ Steps to implement clustering in R
 19. Calculate the Meila's variation index
 20. Calculate the betweenss of the cluster distance between clusters.
 
-Conclusion: 
+Conclusion: The age and annual income cluster has 44 and 76 observations equivalent to the 40% to 60 % ratio. Cluster 1 annual income is higher than cluster 2 based on the centriod mean.  The intra cluster bond strength of cluster 1 is 35.15666 and cluster 2 is 110.20722. The goodness of the classification k-means is 38.9 % (low fit). The between clusters is 92.63612. The annual income and spending score cluster has 41 and 79 observations equivalent to the 40 % to 60 %. Cluster 1 annual income is higher than cluster 2 based on the centriod mean. The intra cluster bond strength of cluster 1 is 63.31879 and cluster 2 is 94.66942. The goodness of the classification k-means is 33.6 % (low fit).The between clusters is 80.01179.
